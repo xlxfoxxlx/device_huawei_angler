@@ -1,7 +1,6 @@
 [
  {
    "repository":  "platform_vendor_huawei",
-   "target_path": "vendor/huawei",
-   "branch":      "n"
+   "target_path": "vendor/huawei"
  }
 ]
